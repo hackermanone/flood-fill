@@ -1,5 +1,4 @@
 import produce from 'immer';
-import cloneDeep from 'lodash/cloneDeep';
 import React, { useState, useEffect } from 'react';
 import './App.css';
 import UserTools from './components/UserTools';
